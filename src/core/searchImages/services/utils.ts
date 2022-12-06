@@ -1,5 +1,5 @@
 
-export const resolveImages = (response: any) => {
+export const resolveResults = (response: any) => {
     return response.data.results;
 }
 
